@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Dima Taqatqa
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning CSS& javascript
-- 💻 I'm styding in Birzeit University
+- 💻 I'm studying in Birzeit University
 - 📫 How to reach me dimataqatqa8@gmail.com
 
 <br />
