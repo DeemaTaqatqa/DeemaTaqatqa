@@ -17,7 +17,7 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dimataqatqa&count_private=true&theme=dracula&hide_border=true" alt = "dimataqatqa's Contribution" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=dimataqatqa&count_private=false&theme=dracula&hide_border=true" alt = "dimataqatqa's Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=dimataqatqa&theme=dracula&hide_border=true" alt = "dimataqatqa's Rating" width = 400 >
 
 </p>
