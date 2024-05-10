@@ -2,11 +2,11 @@
 
 <h1>About Me 📌</h1>
 
-- 👋 Hi, I’m Dima Taqatqa
+- 👋 Hi, I’m Deema Taqatqa
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning CSS, javascript& React
 - 💻 I'm studying in Birzeit University
-- 📫 How to reach me dimataqatqa8@gmail.com
+- 📫 How to reach me deema.s.taqatqa@gmail.com
 
 <br />
 
