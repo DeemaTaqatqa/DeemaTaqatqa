@@ -57,8 +57,9 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deemataqatqa/deemataqatqa/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
